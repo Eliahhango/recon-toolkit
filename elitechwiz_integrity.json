@@ -1,0 +1,18 @@
+{
+    "version":  1,
+    "algo":  "sha256",
+    "generated_at":  "2026-02-04",
+    "files":  {
+                  "elitechwiz.php":  "7e6bc2bb5d9fd82b458c53140a72b460e856b3235f1eee357924990b401cf05b",
+                  "elitechwiz_functions.php":  "63c269b4b843238845b21a43f1f8d9eeda843b68b19a96263b6ccb346fb653c6",
+                  "elitechwiz_var.php":  "11425c878bd437b4ddd390bdee3e74e0855d72e2ec3c3c90f02608519a5d9cc3",
+                  "elitechwiz_version.txt":  "8248f7772687aff0b103b36898908deb82126337f933e49a5ac04829093c58ff",
+                  "lib/elitechwiz_scanner.php":  "42679de77946d245eda4df56b7805d2f0c18e578f390b11123aa6df1bf6f68ba",
+                  "wordlists/elitechwiz_subdomains_default.txt":  "4e472c583d470c38d61d2a76e3e6ed887c7a7773e8e4aea6143ec425ef186720",
+                  "elitechwiz_crawl/admin.ini":  "d01ee83b24136b6ff3014124bda3ea72d8039f3dde8da30bb9b817bfa349bd95",
+                  "elitechwiz_crawl/backup.ini":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                  "elitechwiz_crawl/others.ini":  "1de05259d53041856970f689b988ad6df731b52803dd70539fa4bf126cea5345",
+                  "elitechwiz_crawl/readme.txt":  "81f834eafeba20c8eeaab641584878327266429e8255575d93a33cfe41158a61",
+                  "sqlerrors.ini":  "03c95ba0343ede1bf8bbcf20b89a9720b82273f0773fd89a834fd8982f8eb322"
+              }
+}
